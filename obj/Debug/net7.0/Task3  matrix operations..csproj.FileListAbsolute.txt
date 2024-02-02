@@ -1,0 +1,15 @@
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\bin\Debug\net7.0\Task3  matrix operations..exe
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\bin\Debug\net7.0\Task3  matrix operations..deps.json
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\bin\Debug\net7.0\Task3  matrix operations..runtimeconfig.json
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\bin\Debug\net7.0\Task3  matrix operations..dll
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\bin\Debug\net7.0\Task3  matrix operations..pdb
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\obj\Debug\net7.0\Task3  matrix operations..csproj.AssemblyReference.cache
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\obj\Debug\net7.0\Task3  matrix operations..GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\obj\Debug\net7.0\Task3  matrix operations..AssemblyInfoInputs.cache
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\obj\Debug\net7.0\Task3  matrix operations..AssemblyInfo.cs
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\obj\Debug\net7.0\Task3  matrix operations..csproj.CoreCompileInputs.cache
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\obj\Debug\net7.0\Task3  matrix operations..dll
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\obj\Debug\net7.0\refint\Task3  matrix operations..dll
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\obj\Debug\net7.0\Task3  matrix operations..pdb
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\obj\Debug\net7.0\Task3  matrix operations..genruntimeconfig.cache
+F:\C# pra\Task by Shoib Bhai\Task3  matrix operations\Task3  matrix operations\obj\Debug\net7.0\ref\Task3  matrix operations..dll
